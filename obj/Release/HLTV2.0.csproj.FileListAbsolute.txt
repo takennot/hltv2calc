@@ -1,0 +1,10 @@
+C:\Users\R96\source\repos\HLTV2.0\obj\Release\HLTV2._0.Form1.resources
+C:\Users\R96\source\repos\HLTV2.0\obj\Release\HLTV2._0.Properties.Resources.resources
+C:\Users\R96\source\repos\HLTV2.0\obj\Release\HLTV2.0.csproj.GenerateResource.cache
+C:\Users\R96\source\repos\HLTV2.0\obj\Release\HLTV2.0.csproj.CoreCompileInputs.cache
+C:\Users\R96\source\repos\HLTV2.0\bin\Release\HLTV Rating 2.0 Calculator.exe.config
+C:\Users\R96\source\repos\HLTV2.0\bin\Release\HLTV Rating 2.0 Calculator.exe
+C:\Users\R96\source\repos\HLTV2.0\bin\Release\HLTV Rating 2.0 Calculator.pdb
+C:\Users\R96\source\repos\HLTV2.0\obj\Release\HLTV Rating 2.0 Calculator.exe
+C:\Users\R96\source\repos\HLTV2.0\obj\Release\HLTV Rating 2.0 Calculator.pdb
+C:\Users\R96\source\repos\HLTV2.0\obj\Release\HLTV2.0.csprojAssemblyReference.cache

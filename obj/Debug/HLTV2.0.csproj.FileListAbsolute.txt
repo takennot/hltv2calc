@@ -1,0 +1,10 @@
+C:\Users\R96\source\repos\HLTV2.0\bin\Debug\HLTV2.0.exe.config
+C:\Users\R96\source\repos\HLTV2.0\bin\Debug\HLTV2.0.exe
+C:\Users\R96\source\repos\HLTV2.0\bin\Debug\HLTV2.0.pdb
+C:\Users\R96\source\repos\HLTV2.0\obj\Debug\HLTV2.0.csprojAssemblyReference.cache
+C:\Users\R96\source\repos\HLTV2.0\obj\Debug\HLTV2._0.Form1.resources
+C:\Users\R96\source\repos\HLTV2.0\obj\Debug\HLTV2._0.Properties.Resources.resources
+C:\Users\R96\source\repos\HLTV2.0\obj\Debug\HLTV2.0.csproj.GenerateResource.cache
+C:\Users\R96\source\repos\HLTV2.0\obj\Debug\HLTV2.0.csproj.CoreCompileInputs.cache
+C:\Users\R96\source\repos\HLTV2.0\obj\Debug\HLTV2.0.exe
+C:\Users\R96\source\repos\HLTV2.0\obj\Debug\HLTV2.0.pdb
